@@ -1,1 +1,4 @@
 My Python project, "Contact Book," set out to make an easy-to-use and effective tool for organizing and storing contact information. The project's goal was to give users an easy-to-use interface for adding, viewing, editing, and removing contacts. The Contact Book was designed to improve user experience and make managing personal or business connections easier by incorporating features like data validation, search functionality, and storage management. I learned a lot about working with data structures, designing user interfaces, and handling files in Python during the development process. Through this project, I was able to sharpen my coding abilities, expand my knowledge of Python libraries, and realize how crucial it is to write well-documented, maintainable code.
+
+qkwtiye3gjeg3hw123541567717
+
